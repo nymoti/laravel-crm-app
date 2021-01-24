@@ -1,0 +1,54 @@
+nymoti-json
+ngvryKhI3b
+
+
+
+- accès :
+
+mail :
+https://webmail1.hostinger.fr/  
+admin@crm-travels.com
+OaavPYRInKC4
+
+confirg env :
+
+Email details
+Webmail address	https://webmail.hostinger.com
+POP3 Host	pop.hostinger.com
+POP3 Port (secured)	995 
+IMAP Host	imap.hostinger.com
+IMAP Port (secured)	993 
+SMTP Host	smtp.hostinger.com
+SMTP Ports (secured)	587 
+MX Record	mx1.hostinger.com
+
+
+ftp
+user u783767082.nimoty
+pwd NHiY05ehvXMT
+host : ftp.crm-travels.com  
+
+db
+db from url to import sql file
+
+db url : https://auth-db190.hostinger.com/index.php?db=u783767082_u2600 
+user : u783767082_json 
+db : u783767082_crmtr
+db password : izHY24wxw9ly
+
+
+
+
+
+
+
+
+
+
+
+
+
+$2y$10$duX/Op9wKS1bG2MQqXJE5eDPPLflaRoZCNL3PXzspq6OxCXTtDDPO
+
+
+ $2y$10$FB9DLRGyyjxK6TJGIFrQHeLeinQxuQcxB8FsMbKeW60msHb3egcwS
